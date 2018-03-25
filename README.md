@@ -14,4 +14,4 @@ Controls
 ● To move the camera left, right, up or down use the arrow keys.
 ● Use the scroll wheel to zoom in or out.
 ● The player can also be made to move left or right by dragging on the screen.
-● Score is displayed in the window title bar.
+● Score is displayed in the window title bar
