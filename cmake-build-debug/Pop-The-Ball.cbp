@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Pop-The-Ball"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/dictator/Pop-The-Ball/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dictator/Pop-The-Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dictator/Pop-The-Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dictator/Pop-The-Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dictator/Pop-The-Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/dictator/Pop-The-Ball/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dictator/Pop-The-Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dictator/Pop-The-Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dictator/Pop-The-Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dictator/Pop-The-Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/dictator/Pop-The-Ball/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dictator/Pop-The-Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dictator/Pop-The-Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dictator/Pop-The-Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dictator/Pop-The-Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Pop-The-Ball">
+				<Option output="/home/dictator/Pop-The-Ball/cmake-build-debug/Pop-The-Ball" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dictator/Pop-The-Ball/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/libdrm"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dictator/Pop-The-Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 Pop-The-Ball"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dictator/Pop-The-Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dictator/Pop-The-Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dictator/Pop-The-Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Pop-The-Ball/fast">
+				<Option output="/home/dictator/Pop-The-Ball/cmake-build-debug/Pop-The-Ball" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dictator/Pop-The-Ball/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/libdrm"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dictator/Pop-The-Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 Pop-The-Ball/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dictator/Pop-The-Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dictator/Pop-The-Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dictator/Pop-The-Ball/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/ball.cpp">
+			<Option target="Pop-The-Ball"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/ball.h">
+			<Option target="Pop-The-Ball"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/color.cpp">
+			<Option target="Pop-The-Ball"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/enemy.cpp">
+			<Option target="Pop-The-Ball"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/enemy.h">
+			<Option target="Pop-The-Ball"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/input.cpp">
+			<Option target="Pop-The-Ball"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/main.cpp">
+			<Option target="Pop-The-Ball"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/main.h">
+			<Option target="Pop-The-Ball"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/nonedit.cpp">
+			<Option target="Pop-The-Ball"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/other_handlers.cpp">
+			<Option target="Pop-The-Ball"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/porcupine.cpp">
+			<Option target="Pop-The-Ball"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/porcupine.h">
+			<Option target="Pop-The-Ball"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/rectangle.cpp">
+			<Option target="Pop-The-Ball"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/rectangle.h">
+			<Option target="Pop-The-Ball"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/semicircle.cpp">
+			<Option target="Pop-The-Ball"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/semicircle.h">
+			<Option target="Pop-The-Ball"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/timer.cpp">
+			<Option target="Pop-The-Ball"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/timer.h">
+			<Option target="Pop-The-Ball"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/triangle.cpp">
+			<Option target="Pop-The-Ball"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/triangle.h">
+			<Option target="Pop-The-Ball"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/Sample_GL.vert">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="/home/dictator/Pop-The-Ball/src/Sample_GL.frag">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

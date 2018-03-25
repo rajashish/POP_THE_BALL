@@ -1,0 +1,25 @@
+/home/dictator/Programs/clion-2017.3.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/dictator/Pop-The-Ball
+-- The C compiler identification is GNU 7.2.0
+-- The CXX compiler identification is GNU 7.2.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+-- Checking for module 'glfw3'
+--   Found glfw3, version 3.2.1
+-- Checking for module 'glew'
+--   Found glew, version 2.0.0
+-- Checking for module 'gl'
+--   Found gl, version 17.2.4
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/dictator/Pop-The-Ball/cmake-build-debug
