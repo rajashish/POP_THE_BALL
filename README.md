@@ -1,5 +1,5 @@
 # POP_THE_BALL
-a 2-D ball game buil in C++ using opengl
+a 2-D ball game build in opengl using C++
 How to run
 1. Make sure you are in the directory Pop-The-Ball
 2. Run the command mkdir build
